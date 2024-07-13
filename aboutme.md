@@ -18,6 +18,12 @@ Writing is not just my profession; it's my passion and creative outlet. With a B
 
 It's a privilege to have a platform where I can express myself, share my ideas, and engage with readers. Each article represents not just a piece of writing, but a chance to make an impact, provoke thought, or offer a new perspective. Knowing that my words can resonate with others and spark meaningful conversations is truly a rewarding gift that cannot be seeked else where. I cherish every opportunity to contribute to discussions and enrich the collective dialogue through my writing. While being able to learn from other talented writers. 
 
-### My story
+### Fun Facts
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Here are a few engaging fun facts about me that offer a glimpse into who I am on a personal level.
+
+  - My favorite color is pink.
+  - I enjoy staying active through running and hiking.
+  - I enjoy coding as it allows me to creatively solve problems.
+  - A favorite actvity of mine is to watch the sunset specfically at the beach.
+  - Of course, writing in my spare time is my idea of a great time!
