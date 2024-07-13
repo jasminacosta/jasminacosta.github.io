@@ -17,6 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: 
     - San Diego Communities Data: "https://jasminacosta.shinyapps.io/PAF516-SanDiego-Communties/"
+    - Tempe Car Accidents Data: "http://127.0.0.1:7483/Tempe.Rmd#section-weather-crashes"
   Code Throughs:
     - Ggplot 2 Package: "https://jasminacosta.shinyapps.io/CodeThroughPAF516-Acosta/"
   Articles:
