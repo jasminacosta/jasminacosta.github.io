@@ -12,6 +12,12 @@ Hello, my name is Jasmin Acosta. I earned my Bachelor's degree in English with a
 
 I believe in the transformative power of combining analytical precision with creative thinking to solve complex problems and drive meaningful change. Analytical precision involves a meticulous approach to data collection, analysis, and interpretation, uncovering hidden patterns and deriving actionable insights. However, data alone is not enough. Creative thinking brings fresh perspectives, encouraging us to think outside the box and explore innovative solutions. By integrating these approaches, I aim to create a balanced framework that grounds decisions in solid evidence while fostering unique strategies and sustainable solutions.
 
+### Exploring Writing: My Passion and Journey
+
+Writing is not just my profession; it's my passion and creative outlet. With a Bachelor's degree in English, concentrating on Literature, I've dedicated myself to crafting compelling narratives and exploring diverse writing styles. From evocative poetry to immersive short stories, each piece reflects my commitment to blending imagination with precision to reality. 
+
+It's a privilege to have a platform where I can express myself, share my ideas, and engage with readers. Each article represents not just a piece of writing, but a chance to make an impact, provoke thought, or offer a new perspective. Knowing that my words can resonate with others and spark meaningful conversations is truly a rewarding gift that cannot be seeked else where. I cherish every opportunity to contribute to discussions and enrich the collective dialogue through my writing. While being able to learn from other talented writers. 
+
 ### My story
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
