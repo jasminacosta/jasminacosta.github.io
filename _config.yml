@@ -102,7 +102,7 @@ post_search: true
 
 navbar-col: "#FF69B4"
 navbar-text-col: "#FFFFFF"
-navbar-border-col: "#FFFFFF"
+navbar-border-col: "#FF69B4"
 page-col: "#FFCCD5"
 text-col: "#FFFFFF"
 link-col: "#FFFFFF"
