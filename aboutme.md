@@ -4,7 +4,7 @@ title: About me
 subtitle: Get to know me
 ---
 
-My name is Jasmin Acosta. I have the following qualities:
+Hello, my name is Jasmin Acosta. I earned my Bachelor's degree in English with a concentration in Literature at California State Univiserty San Bernardino, which cultivated my love for storytelling and critical analysis. I furthered my education with a Master's degree in Program Evaluation and Data Analytics at Arizona State University, where I gained expertise in leveraging data to evaluate and enhance program performance. This blend of literary insight and analytical acumen equips me with a unique skill set to approach challenges creatively and strategically.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
