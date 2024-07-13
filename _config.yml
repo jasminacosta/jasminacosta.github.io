@@ -17,6 +17,8 @@ navbar-links:
   About Me: "aboutme"
   Projects: 
     - San Diego Communities Data: "https://jasminacosta.shinyapps.io/PAF516-SanDiego-Communties/"
+  Code Throughs:
+    - Ggplot 2 Package: "https://jasminacosta.shinyapps.io/CodeThroughPAF516-Acosta/"
   Articles:
     - The Invisible Thread How Love’s Fleeting Presence Shapes Us: "https://thehealthyplanet.com/2024/06/23-the-invisible-thread-how-loves-fleeting-presence-shapes-us/"
     - Be Proud of Your Survival: "https://thehealthyplanet.com/2023/05/27-be-proud-of-your-survival/"
