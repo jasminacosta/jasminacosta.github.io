@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Jasmin Acosta's Website
+title: Myra's Website
 
 # Your name to show in the footer
 author: Jasmin Acosta
@@ -111,7 +111,7 @@ excerpt_length: 50
 navbar-col: "#FF69B4"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#FF69B4"
-page-col: "#FFFFFF"
+page-col: "#DE3163"
 text-col: "#17202A"
 link-col: "#F48FB1"
 hover-col: "#FF1493"
