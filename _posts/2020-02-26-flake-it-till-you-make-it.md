@@ -8,8 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [motivation, life]
 ---
 
-Life isn't about finding yourself.
+Life isn't about finding yourself. Life is about creating yourself.
 
-Life is about creating yourself.
-
-  - George Bernard Shaw
+George Bernard Shaw
