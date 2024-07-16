@@ -1,16 +1,39 @@
 ---
 layout: post
-title: Biography
+title: Navigating My Website
 cover-img: /assets/img/beach.jpeg
 thumbnail-img: /assets/img/beach.jpeg
 share-img: /assets/img/beach.jpeg
-tags: [motivation, life]
 ---
 
-Jasmin is an accomplished writer with a passion for crafting creative and compelling narratives. With a Bachelor's degree in English, concentrating on Literature, Jasmin possesses a deep understanding of literary analysis and storytelling techniques. This academic foundation has been instrumental in developing a nuanced approach to writing that resonates with diverse audiences.
+About Me Tab
+  - Introduction
+  - Professional Philosophy
+  - Exploring Writing: My Passion and Journey
+  - Fun Facts About Me
 
-Furthering her expertise, Jasmin earned a Master's degree in Program Evaluation and Data Analytics. This unique combination of skills allows her to integrate analytical precision with creative expression, ensuring her work is both insightful and impactful. Her proficiency in data-driven storytelling enables her to create content that is not only engaging but also grounded in research and evidence.
+Projects Tab
 
-In her professional role as a writer, Jasmin has honed her ability to produce high-quality content across various genres and formats. Her portfolio includes a range of creative pieces that demonstrate her versatility and dedication to her craft. She excels in transforming complex ideas into accessible and captivating narratives, making her a valuable asset in any creative or analytical writing project.
+Each of these projects showcases my proficiency in R, utilizing a diverse array of advanced analytical techniques. From data visualization and statistical modeling to
+machine learning and predictive analytics, these projects highlight my ability to apply rigorous analytical methods to derive meaningful insights and solutions. Whether
+it's uncovering trends, making data-driven predictions, or optimizing processes, these projects demonstrate my expertise and versatility in the field of data analytics.
 
-Jasmin's work is characterized by a commitment to excellence, attention to detail, and a passion for continuous learning. She thrives in collaborative environments and is adept at meeting deadlines while maintaining the integrity and originality of her work. Her unique blend of literary knowledge and analytical skills sets her apart as a writer who can deliver both creative flair and substantive content.
+  - San Diego Communities Analytics
+  - Tempe Car Accidents Data
+  - The NMTC & LIHTC Programs and Community Social Vulnerability: An evaluation of the effectiveness of federal programs in the United States
+  - Regular Expressions
+
+Code Throughs
+
+This tab offers a collection of concise coding tutorials in R, showcasing various code snippets and techniques to enhance one's data analysis skills.
+
+  - GGPlot 2 Package
+  - Slice() Function
+
+Articles Tab
+
+Here, you can explore a variety of published articles that delve into a wide range of topics.
+
+  - The Invisible Thread: How Love’s Fleeting Presence Shapes Us
+  - Be Proud of Your Survival
+  - Loving Our Inner Child
