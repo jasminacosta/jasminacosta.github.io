@@ -17,3 +17,5 @@ In the midst of winter, I found there was, within me, an invincible summer.
 And that makes me happy. For it says that no matter how hard the world pushes against me, within me, there’s something stronger – something better, pushing right back. - Albert Camus
 
 The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion. - Albert Camus
+
+I think it's very healthy to spend time alone. You need to know how to be alone and not be defined by another person. ― Oscar Wilde
