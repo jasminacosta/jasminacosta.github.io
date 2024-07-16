@@ -6,34 +6,25 @@
 # --- Required options --- #
 
 # Name of website
-title: Jasmin's Website
+title: My Website
 
 # Your name to show in the footer
-author: Jasmin Acosta
+author: Some Person
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Projects: 
-    - San Diego Communities Data: "https://jasminacosta.shinyapps.io/PAF516-SanDiego-Communties/"
-    - Tempe Car Accidents Data: "https://jasminacosta.shinyapps.io/jasmin/"
-    - The NMTC & LIHTC Programs and Community Social Vulnerability: "https://watts-college.github.io/project-paf-515-2024s-team-04/"
-    - Regular Expressions: "https://jasminacostaa.shinyapps.io/regular/"
-  Code Throughs:
-    - Ggplot 2 Package: "https://jasminacosta.shinyapps.io/CodeThroughPAF516-Acosta/"
-    - Slice() Function: "https://jasminacostaa.shinyapps.io/slice/"
-  Articles:
-    - The Invisible Thread How Love’s Fleeting Presence Shapes Us: "https://thehealthyplanet.com/2024/06/23-the-invisible-thread-how-loves-fleeting-presence-shapes-us/"
-    - Be Proud of Your Survival: "https://thehealthyplanet.com/2023/05/27-be-proud-of-your-survival/"
-    - Loving Our Inner Child: "https://thehealthyplanet.com/2022/08/26-loving-our-inner-child/"
-  
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/jasmin.JPEG"
+avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -48,15 +39,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "jasminbethany1234@gmail.com"
- # facebook: deanattali
-  github: jasminacosta
-#  twitter: daattali
-#  patreon: DeanAttali
- # youtube: c/daattali
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: jasmin-acosta
+#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -90,16 +81,16 @@ share-links-active:
 url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
- excerpt_length: 50
+excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
- feed_show_excerpt: true
+feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
- feed_show_tags: true
+feed_show_tags: true
 
 # Add a search button to the navbar
- post_search: true
+post_search: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
@@ -108,16 +99,16 @@ url-pretty: "MyWebsite.com"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FF69B4"
-navbar-text-col: "#FFFFFF"
-navbar-border-col: "#FF69B4"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
-text-col: "#17202A"
-link-col: "#F48FB1"
-hover-col: "#FF1493"
-footer-col: "#FF69B4"
-footer-text-col: "#FFFFFF"
-footer-link-col: "#F48FB1"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -237,7 +228,6 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  
 
 plugins:
   - jekyll-paginate
@@ -245,4 +235,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
