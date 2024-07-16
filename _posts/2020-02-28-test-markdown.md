@@ -7,6 +7,9 @@ share-img: /assets/img/beach.jpeg
 ---
 
 About Me Tab
+
+Within this section you will get a glimpse into who I am and what drives me.
+
   - Introduction
   - Professional Philosophy
   - Exploring Writing: My Passion and Journey
