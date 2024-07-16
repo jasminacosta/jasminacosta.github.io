@@ -22,4 +22,4 @@ The only way to deal with an unfree world is to become so absolutely free that y
 
 Life is not a problem to be solved, but a reality to be experienced. - Soren Kierkegaard
 
-I think it's very healthy to spend time alone. You need to know how to be alone and not be defined by another person. ― Oscar Wilde
+I think it's very healthy to spend time alone. You need to know how to be alone and not be defined by another person. - Oscar Wilde
